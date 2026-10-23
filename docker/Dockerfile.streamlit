@@ -1,0 +1,22 @@
+# docker/Dockerfile.streamlit
+FROM python:3.11-slim
+
+# Java is required by PySpark, which the Streamlit "BDA Analytics" page
+# can trigger via its "Run BDA pipeline" button.
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    default-jre-headless \
+    && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /app
+
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY . .
+
+ENV ENERGY_API_URL=http://api:8000
+ENV MLFLOW_TRACKING_URI=sqlite:///mlflow.db
+
+EXPOSE 8501
+
+CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0.0"]

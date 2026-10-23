@@ -1,0 +1,142 @@
+[
+  {
+    "house_id": 1,
+    "avg_power_w": 427.33,
+    "peak_power_w": 4000.0,
+    "estimated_energy_kwh": 7212.76,
+    "reading_count": 7595402
+  },
+  {
+    "house_id": 2,
+    "avg_power_w": 372.02,
+    "peak_power_w": 4000.0,
+    "estimated_energy_kwh": 5248.02,
+    "reading_count": 6348042
+  },
+  {
+    "house_id": 3,
+    "avg_power_w": 602.66,
+    "peak_power_w": 4000.0,
+    "estimated_energy_kwh": 10184.48,
+    "reading_count": 7604702
+  },
+  {
+    "house_id": 4,
+    "avg_power_w": 374.04,
+    "peak_power_w": 4000.0,
+    "estimated_energy_kwh": 6175.78,
+    "reading_count": 7430021
+  },
+  {
+    "house_id": 5,
+    "avg_power_w": 679.54,
+    "peak_power_w": 4000.0,
+    "estimated_energy_kwh": 12246.0,
+    "reading_count": 8109494
+  },
+  {
+    "house_id": 6,
+    "avg_power_w": 475.11,
+    "peak_power_w": 4000.0,
+    "estimated_energy_kwh": 7279.96,
+    "reading_count": 6895213
+  },
+  {
+    "house_id": 7,
+    "avg_power_w": 506.32,
+    "peak_power_w": 4000.0,
+    "estimated_energy_kwh": 8280.26,
+    "reading_count": 7359228
+  },
+  {
+    "house_id": 8,
+    "avg_power_w": 565.4,
+    "peak_power_w": 4000.0,
+    "estimated_energy_kwh": 8393.67,
+    "reading_count": 6680486
+  },
+  {
+    "house_id": 9,
+    "avg_power_w": 481.55,
+    "peak_power_w": 4000.0,
+    "estimated_energy_kwh": 7307.96,
+    "reading_count": 6829201
+  },
+  {
+    "house_id": 10,
+    "avg_power_w": 710.18,
+    "peak_power_w": 4000.0,
+    "estimated_energy_kwh": 11788.3,
+    "reading_count": 7469558
+  },
+  {
+    "house_id": 11,
+    "avg_power_w": 479.22,
+    "peak_power_w": 4000.0,
+    "estimated_energy_kwh": 5485.77,
+    "reading_count": 5151229
+  },
+  {
+    "house_id": 12,
+    "avg_power_w": 348.22,
+    "peak_power_w": 4000.0,
+    "estimated_energy_kwh": 5222.53,
+    "reading_count": 6749065
+  },
+  {
+    "house_id": 13,
+    "avg_power_w": 509.06,
+    "peak_power_w": 4000.0,
+    "estimated_energy_kwh": 5882.9,
+    "reading_count": 5200390
+  },
+  {
+    "house_id": 15,
+    "avg_power_w": 250.87,
+    "peak_power_w": 3995.0,
+    "estimated_energy_kwh": 3814.78,
+    "reading_count": 6842702
+  },
+  {
+    "house_id": 16,
+    "avg_power_w": 531.35,
+    "peak_power_w": 4000.0,
+    "estimated_energy_kwh": 6821.79,
+    "reading_count": 5777417
+  },
+  {
+    "house_id": 17,
+    "avg_power_w": 361.47,
+    "peak_power_w": 4000.0,
+    "estimated_energy_kwh": 4980.69,
+    "reading_count": 6200480
+  },
+  {
+    "house_id": 18,
+    "avg_power_w": 443.42,
+    "peak_power_w": 4000.0,
+    "estimated_energy_kwh": 5673.49,
+    "reading_count": 5757614
+  },
+  {
+    "house_id": 19,
+    "avg_power_w": 281.86,
+    "peak_power_w": 3999.0,
+    "estimated_energy_kwh": 3990.62,
+    "reading_count": 6371111
+  },
+  {
+    "house_id": 20,
+    "avg_power_w": 372.18,
+    "peak_power_w": 4000.0,
+    "estimated_energy_kwh": 4938.15,
+    "reading_count": 5970741
+  },
+  {
+    "house_id": 21,
+    "avg_power_w": 621.34,
+    "peak_power_w": 4000.0,
+    "estimated_energy_kwh": 8325.83,
+    "reading_count": 6029952
+  }
+]

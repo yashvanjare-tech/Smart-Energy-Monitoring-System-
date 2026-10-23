@@ -1,0 +1,170 @@
+[
+  {
+    "appliance": "Fridge-Freezer",
+    "avg_power_w": 51.79,
+    "peak_power_w": 3998.0,
+    "estimated_energy_kwh": 11397.67,
+    "reading_count": 99035734
+  },
+  {
+    "appliance": "Dishwasher",
+    "avg_power_w": 39.42,
+    "peak_power_w": 3840.0,
+    "estimated_energy_kwh": 8725.5,
+    "reading_count": 99599306
+  },
+  {
+    "appliance": "Freezer",
+    "avg_power_w": 37.33,
+    "peak_power_w": 3842.0,
+    "estimated_energy_kwh": 7443.37,
+    "reading_count": 89734687
+  },
+  {
+    "appliance": "Television",
+    "avg_power_w": 22.51,
+    "peak_power_w": 3982.0,
+    "estimated_energy_kwh": 6379.97,
+    "reading_count": 127533154
+  },
+  {
+    "appliance": "Washing Machine",
+    "avg_power_w": 17.23,
+    "peak_power_w": 3972.0,
+    "estimated_energy_kwh": 5127.26,
+    "reading_count": 133888640
+  },
+  {
+    "appliance": "Tumble Dryer",
+    "avg_power_w": 41.66,
+    "peak_power_w": 3968.0,
+    "estimated_energy_kwh": 4482.64,
+    "reading_count": 48425631
+  },
+  {
+    "appliance": "Computer",
+    "avg_power_w": 20.01,
+    "peak_power_w": 3975.0,
+    "estimated_energy_kwh": 3843.74,
+    "reading_count": 86439260
+  },
+  {
+    "appliance": "Kettle",
+    "avg_power_w": 17.93,
+    "peak_power_w": 3968.0,
+    "estimated_energy_kwh": 3729.76,
+    "reading_count": 93588096
+  },
+  {
+    "appliance": "Microwave",
+    "avg_power_w": 8.57,
+    "peak_power_w": 3968.0,
+    "estimated_energy_kwh": 2124.46,
+    "reading_count": 111562438
+  },
+  {
+    "appliance": "Fridge",
+    "avg_power_w": 16.54,
+    "peak_power_w": 3968.0,
+    "estimated_energy_kwh": 1697.93,
+    "reading_count": 46202364
+  },
+  {
+    "appliance": "Electric Heater",
+    "avg_power_w": 21.05,
+    "peak_power_w": 3552.0,
+    "estimated_energy_kwh": 1224.97,
+    "reading_count": 26185953
+  },
+  {
+    "appliance": "Washer Dryer",
+    "avg_power_w": 11.71,
+    "peak_power_w": 3584.0,
+    "estimated_energy_kwh": 706.41,
+    "reading_count": 27140765
+  },
+  {
+    "appliance": "Network",
+    "avg_power_w": 59.99,
+    "peak_power_w": 3593.0,
+    "estimated_energy_kwh": 699.18,
+    "reading_count": 5244378
+  },
+  {
+    "appliance": "Toaster",
+    "avg_power_w": 4.03,
+    "peak_power_w": 3968.0,
+    "estimated_energy_kwh": 620.68,
+    "reading_count": 69388178
+  },
+  {
+    "appliance": "Pond Pump",
+    "avg_power_w": 35.7,
+    "peak_power_w": 3631.0,
+    "estimated_energy_kwh": 479.39,
+    "reading_count": 6042624
+  },
+  {
+    "appliance": "Dehumidifier",
+    "avg_power_w": 28.08,
+    "peak_power_w": 2703.0,
+    "estimated_energy_kwh": 362.33,
+    "reading_count": 5806050
+  },
+  {
+    "appliance": "Hi-Fi",
+    "avg_power_w": 4.82,
+    "peak_power_w": 3840.0,
+    "estimated_energy_kwh": 339.89,
+    "reading_count": 31734017
+  },
+  {
+    "appliance": "Kitchen Mixer",
+    "avg_power_w": 7.53,
+    "peak_power_w": 3968.0,
+    "estimated_energy_kwh": 227.28,
+    "reading_count": 13589781
+  },
+  {
+    "appliance": "Vivarium",
+    "avg_power_w": 16.08,
+    "peak_power_w": 3138.0,
+    "estimated_energy_kwh": 215.86,
+    "reading_count": 6042686
+  },
+  {
+    "appliance": "Blender",
+    "avg_power_w": 11.84,
+    "peak_power_w": 3584.0,
+    "estimated_energy_kwh": 198.51,
+    "reading_count": 7547052
+  },
+  {
+    "appliance": "Router",
+    "avg_power_w": 11.31,
+    "peak_power_w": 333.0,
+    "estimated_energy_kwh": 129.48,
+    "reading_count": 5153038
+  },
+  {
+    "appliance": "Bread-maker",
+    "avg_power_w": 5.2,
+    "peak_power_w": 3616.0,
+    "estimated_energy_kwh": 73.72,
+    "reading_count": 6378063
+  },
+  {
+    "appliance": "Games Console",
+    "avg_power_w": 2.8,
+    "peak_power_w": 3120.0,
+    "estimated_energy_kwh": 39.72,
+    "reading_count": 6378166
+  },
+  {
+    "appliance": "Fan",
+    "avg_power_w": 0.33,
+    "peak_power_w": 2048.0,
+    "estimated_energy_kwh": 4.7,
+    "reading_count": 6415304
+  }
+]

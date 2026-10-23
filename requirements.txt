@@ -1,0 +1,25 @@
+# Core / original app
+pandas==2.3.3
+numpy==2.4.4
+plotly==7.0.0
+matplotlib==3.10.5
+reportlab==4.4.3
+scikit-learn==1.8.0
+joblib==1.5.3
+requests==2.33.1
+
+# Web app
+streamlit==1.63.0
+
+# BDA (Apache Spark)
+pyspark==3.5.1
+pyarrow==25.0.1
+
+# ML / MLOps
+xgboost==3.4.1
+mlflow==3.15.2
+
+# Model serving
+fastapi==0.141.1
+uvicorn[standard]==0.52.4
+pydantic==2.13.5

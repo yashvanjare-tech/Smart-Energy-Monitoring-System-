@@ -1,0 +1,146 @@
+[
+  {
+    "hour": 0,
+    "avg_power_w": 708.11,
+    "peak_power_w": 32713.0,
+    "reading_count": 5574452
+  },
+  {
+    "hour": 1,
+    "avg_power_w": 635.55,
+    "peak_power_w": 21841.0,
+    "reading_count": 5585902
+  },
+  {
+    "hour": 2,
+    "avg_power_w": 559.17,
+    "peak_power_w": 33027.0,
+    "reading_count": 5599465
+  },
+  {
+    "hour": 3,
+    "avg_power_w": 455.23,
+    "peak_power_w": 32500.0,
+    "reading_count": 5592994
+  },
+  {
+    "hour": 4,
+    "avg_power_w": 354.81,
+    "peak_power_w": 29213.0,
+    "reading_count": 5574050
+  },
+  {
+    "hour": 5,
+    "avg_power_w": 304.43,
+    "peak_power_w": 33039.0,
+    "reading_count": 5552936
+  },
+  {
+    "hour": 6,
+    "avg_power_w": 307.36,
+    "peak_power_w": 65876.0,
+    "reading_count": 5537227
+  },
+  {
+    "hour": 7,
+    "avg_power_w": 310.47,
+    "peak_power_w": 65553.0,
+    "reading_count": 5543988
+  },
+  {
+    "hour": 8,
+    "avg_power_w": 307.11,
+    "peak_power_w": 32756.0,
+    "reading_count": 5513458
+  },
+  {
+    "hour": 9,
+    "avg_power_w": 302.43,
+    "peak_power_w": 28881.0,
+    "reading_count": 5501549
+  },
+  {
+    "hour": 10,
+    "avg_power_w": 395.44,
+    "peak_power_w": 32930.0,
+    "reading_count": 5505281
+  },
+  {
+    "hour": 11,
+    "avg_power_w": 452.06,
+    "peak_power_w": 41738.0,
+    "reading_count": 5526692
+  },
+  {
+    "hour": 12,
+    "avg_power_w": 566.56,
+    "peak_power_w": 29159.0,
+    "reading_count": 5532453
+  },
+  {
+    "hour": 13,
+    "avg_power_w": 625.2,
+    "peak_power_w": 66227.0,
+    "reading_count": 5532347
+  },
+  {
+    "hour": 14,
+    "avg_power_w": 594.71,
+    "peak_power_w": 34096.0,
+    "reading_count": 5539687
+  },
+  {
+    "hour": 15,
+    "avg_power_w": 549.43,
+    "peak_power_w": 65663.0,
+    "reading_count": 5496782
+  },
+  {
+    "hour": 16,
+    "avg_power_w": 545.96,
+    "peak_power_w": 34096.0,
+    "reading_count": 5541373
+  },
+  {
+    "hour": 17,
+    "avg_power_w": 563.54,
+    "peak_power_w": 65824.0,
+    "reading_count": 5536574
+  },
+  {
+    "hour": 18,
+    "avg_power_w": 547.99,
+    "peak_power_w": 68093.0,
+    "reading_count": 5543142
+  },
+  {
+    "hour": 19,
+    "avg_power_w": 510.59,
+    "peak_power_w": 37031.0,
+    "reading_count": 5556520
+  },
+  {
+    "hour": 20,
+    "avg_power_w": 506.76,
+    "peak_power_w": 32718.0,
+    "reading_count": 5567607
+  },
+  {
+    "hour": 21,
+    "avg_power_w": 603.28,
+    "peak_power_w": 68232.0,
+    "reading_count": 5590891
+  },
+  {
+    "hour": 22,
+    "avg_power_w": 737.07,
+    "peak_power_w": 24805.0,
+    "reading_count": 5593452
+  },
+  {
+    "hour": 23,
+    "avg_power_w": 761.05,
+    "peak_power_w": 65562.0,
+    "reading_count": 5592056
+  }
+]

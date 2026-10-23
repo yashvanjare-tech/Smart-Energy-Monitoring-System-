@@ -1,0 +1,52 @@
+﻿# Python environment and cache
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.coverage
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# MLflow experiment artifacts and local database
+mlruns/
+mlflow.db
+mlflow.db-shm
+mlflow.db-wal
+
+# Trained model artifacts
+ml/artifacts/*.pkl
+src/model.pkl
+
+# Generated outputs and logs
+OUTPUTS/
+logs/
+*.log
+
+# Raw datasets
+data/raw/
+
+# Archives
+*.zip
+
+# Large generated datasets and project dumps
+data/processed/features.csv
+ml/artifacts/scored_readings.csv
+project_structure.txt
+
+# Empty placeholder files
+data/appliance_data.csv
+sample_data/high_usage.csv
+sample_data/normal_usage.csv
+sample_data/overload.csv

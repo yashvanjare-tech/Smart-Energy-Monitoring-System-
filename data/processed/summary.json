@@ -1,0 +1,30 @@
+{
+  "peak_usage": {
+    "peak_hour": 22,
+    "peak_hour_energy_kwh": 195.971,
+    "peak_day": "2026-08-16",
+    "peak_day_energy_kwh": 46.442,
+    "peak_appliance": "Air Conditioner",
+    "peak_appliance_share_pct": 40.0,
+    "single_highest_reading_w": 2297.31,
+    "single_highest_reading_appliance": "Water Heater",
+    "single_highest_reading_time": "2026-08-30 02:00:00"
+  },
+  "cost_analysis": {
+    "total_energy_kwh": 3129.76,
+    "total_cost_inr": 25038.09,
+    "avg_daily_energy_kwh": 34.775,
+    "avg_daily_cost_inr": 278.2,
+    "estimated_monthly_cost_inr": 8346.03,
+    "estimated_yearly_cost_inr": 101543.38,
+    "total_carbon_kg": 2566.4,
+    "days_covered": 90
+  },
+  "energy_trend": {
+    "first_period_avg_kwh": 34.413,
+    "second_period_avg_kwh": 35.137,
+    "change_pct": 2.1,
+    "trend": "stable"
+  },
+  "row_count": 9554
+}
