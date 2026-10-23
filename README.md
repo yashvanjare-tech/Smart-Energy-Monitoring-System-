@@ -296,7 +296,7 @@ dataset and produces:
 
 ## 👨‍💻 Author
 
-Arshdeep Kaur — B.Tech Student
+Yash Vanjare — B.Tech Student
 Smart Home Energy Analytics & MLOps Platform
 
 ---
